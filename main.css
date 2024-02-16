@@ -1,0 +1,66 @@
+.firstbody{
+	margin: 0 40px;
+	background-color: lightblue
+
+}
+#work{
+	color: rgb(190,1,17);
+	text-align: center;
+}
+.web{
+	font-weight: bold;
+}
+.osn{
+	a:link {color: #808080}
+	a:visited {color: #800000}	
+}
+#need{
+	color: rgb(0,125,0);
+}
+#neneed{
+	color: rgb(0,50,255);
+}
+#ne{
+	list-style-type: square;
+	a:link {color: #808080}
+	a:visited {color: #800000}
+}
+#nene{
+	list-style-type: upper-roman;
+}
+#stroy{
+	font-style: italic;
+}
+.secondbody{
+	margin: 0 40px;
+	background-color: lightyellow;
+}
+.home{
+	text-align: center;
+	a:link {color: #808080}
+	a:visited {color: #800000}
+}
+#notepad{
+	text-align: center;
+	color: rgb(191,0,30);
+}
+.thirdbody{
+	margin: 0 40px;
+	background-color: rgb(210,255,210);
+}
+#izodoc{
+	color: rgb(0,103,103);
+	text-align: center;
+}
+#where{
+	color: rgb(1,208,102);
+}
+#which{
+	color: rgb(149,0,143);
+}
+#whichizo{
+	list-style-type: circle;
+}
+#conf{
+	color: rgb(136,75,27);
+}
