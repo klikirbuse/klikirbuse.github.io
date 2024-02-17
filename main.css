@@ -14,6 +14,10 @@
 	a:link {color: #808080}
 	a:visited {color: #800000}	
 }
+.suka{
+	vertical-align: text-top;
+}
+}
 #need{
 	color: rgb(0,125,0);
 }
@@ -63,4 +67,8 @@
 }
 #conf{
 	color: rgb(136,75,27);
+}
+.brus{
+	width: 50%;
+	float:	right;
 }
