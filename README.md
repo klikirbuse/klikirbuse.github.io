@@ -1,2 +1,2 @@
 # klikirbuse.github.io
-laba_2
+<a href ="index.html">&#91; Домой &#93;</a>
